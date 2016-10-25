@@ -1,0 +1,9 @@
+Server IP:32.209.63.72
+Username:Bobby
+Password:pass
+Program:python.exe
+Action:start
+Username:Sam
+Password:pass2
+Program:python.exe
+Action:Start
